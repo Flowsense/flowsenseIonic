@@ -1,5 +1,7 @@
 {
   "name": "flowsenseIonic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
